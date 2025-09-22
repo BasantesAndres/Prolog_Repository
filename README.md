@@ -8,11 +8,11 @@ A comprehensive Prolog knowledge base system implementation featuring:
 - 📋 List processing operations
 - ## 🏗️ Project Structure
 - prolog-lab/
--family.pl # 👪 Family relationships and rules
--food.pl # 🍕 Food preferences facts
--math_utils.pl # ➕ Mathematical functions
--list_utils.pl # 📋 List operations
--main.pl # 🚀 Main file with queries
+- family.pl # 👪 Family relationships and rules
+- food.pl # 🍕 Food preferences facts
+- math_utils.pl # ➕ Mathematical functions
+- list_utils.pl # 📋 List operations
+- main.pl # 🚀 Main file with queries
 
 ### Execution
 
