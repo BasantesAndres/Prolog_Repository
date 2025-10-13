@@ -17,7 +17,7 @@ This package contains everything required for the deliverables:
 3. **Interactive mode** (for screenshots):
    ```powershell
    swipl
-   ?- [lab03_graph_traversal].
+   ?- [lab03].
    ?- demo_part1.
    ?- path_c_naive(a,c).   % show it hangs, then Ctrl+C, 'a' to abort (proof of cycle)
    ?- demo_part2.
