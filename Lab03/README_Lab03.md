@@ -13,8 +13,7 @@ This package contains everything required for the deliverables:
 ## How to run (Windows PowerShell)
 
 1. Open PowerShell in this folder.
-2. Ensure SWI-Prolog is installed (`swipl --version`). 
-3. **Interactive mode** (for screenshots):
+2. **Interactive mode** (for demos):
    ```powershell
    swipl
    ?- [lab03].
