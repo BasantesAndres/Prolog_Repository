@@ -7,7 +7,8 @@ This package contains everything required for the deliverables:
 ## Files
 - `lab03pl` → Graph representation, path-finding with cycle handling, and demo queries.
 - `Written_Answers_Lab03.md` → Template to paste screenshots of successful queries and write short answers.
-
+- `Demo part 1-4` → Demo queries part 1 to 4.
+- `Extra Querie ( patch naive) and  listing edge` → Extra querie with path native and listing edge _ c.
 ---
 
 ## How to run (Windows PowerShell)
