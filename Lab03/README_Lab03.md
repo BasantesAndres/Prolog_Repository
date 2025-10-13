@@ -33,7 +33,7 @@ This package contains everything required for the deliverables:
 ### 2) Path-finding with cycle handling
 - Unsafe: `path_c_naive/2` (demonstrates infinite recursion on cyclic graph).
 - Safe with visited list: `path_safe/3`, `path_list/3` (returns actual node list).
-- Shortest path bonus (BFS): `shortest_path/3` (optional).
+- Shortest path bonus (BFS): `shortest_path/3`.
 
 ### 3) Queries demonstrating paths
 Run and capture:
