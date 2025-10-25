@@ -1,6 +1,5 @@
 % =========================================
 % Prolog Lab – Intelligent Maze Advisor
-% Archivo: maze_advisor.pl
 % =========================================
 % Summary:
 % We model the maze as a graph with edge/2 facts and blocked/2 possible constraints.
@@ -52,3 +51,4 @@ find_path(From, To, Path) :-
 why(X, Y) :-
     reason(X, Y, R),
     format('Reason from ~w to ~w: ~w~n', [X, Y, R]).
+
