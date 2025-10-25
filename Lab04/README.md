@@ -40,9 +40,6 @@ prolog-maze/
    ```prolog
    ?- find_path(entrance, exit, Path).
    ```
-4. Observe the printed reasoning and final `Path = [...]`.
-
-> Take a screenshot of the console output (include the Moving/Exploring lines and the Path). Save it as `screenshot_reasoning.png`.
 
 ### Run from Terminal
 
