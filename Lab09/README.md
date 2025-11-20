@@ -13,7 +13,7 @@ The goal of the lab is to **parse** and **generate** simple English sentences li
 
 ---
 
-## 📚 What this project does
+## 📚 What this lab does
 
 - Implements a **mini grammar** for English sentences:
   - `sentence --> noun_phrase, verb_phrase.`
@@ -38,10 +38,10 @@ Lab09_Mini_English_Grammar/
 ├── README.md                 # This file 📄
 ├── mini_english_grammar.pl   # Prolog file with the DCG grammar 🧩
 └── screens/                  # Screenshots of the program running 🖼️
-    ├── parsing_true.png      # phrase(sentence, [the, cat, eats, fish]).
-    ├── parsing_false.png     # phrase(sentence, [dog, the, eats]).
-    ├── generation.png        # phrase(sentence, X).
-    ├── generation.png        # phrase(sentence, X). (x) (x).
+    ├── parsing_true     # phrase(sentence, [the, cat, eats, fish]).
+    ├── parsing_false    # phrase(sentence, [dog, the, eats]).
+    ├── generation       # phrase(sentence, X).
+    ├── generation       # phrase(sentence, X). (x) (x).
 ```
 
 
